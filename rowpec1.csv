@@ -1,0 +1,7 @@
+﻿mb_sample_id,Subject name,Sample name,Sample source,Treatment,Sample_Data:RAW_FILE_NAME(Raw file name)
+SA615806,-,Vehicle_1,MDA-MB-231 cells,Control,Vehicle-01.RAW
+SA615807,-,Vehicle_2,MDA-MB-231 cells,Control,Vehicle-02.RAW
+SA615808,-,Vehicle_3,MDA-MB-231 cells,Control,Vehicle-03.RAW
+SA615809,-,LXG_1,MDA-MB-231 cells,LXG6403,LXG-01.RAW
+SA615810,-,LXG_2,MDA-MB-231 cells,LXG6403,LXG-02.RAW
+SA615811,-,LXG_3,MDA-MB-231 cells,LXG6403,LXG-03.RAW
